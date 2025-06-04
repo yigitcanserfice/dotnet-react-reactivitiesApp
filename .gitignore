@@ -151,3 +151,5 @@ coverage/
 # OS generated files
 ehthumbs.db
 Thumbs.db
+API/appsettings.json
+API/reactivities.db
